@@ -223,9 +223,6 @@ Flag content containing:
 prompt_guard:
   sensitivity: medium
   
-  # Owner IDs (bypass scanning)
-  owner_ids:
-    - "YOUR_TELEGRAM_ID"
   
   # MONITOR MODE (Phase 1) - Log everything, block nothing
   actions:
